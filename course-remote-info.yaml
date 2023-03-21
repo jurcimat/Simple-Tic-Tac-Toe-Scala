@@ -1,0 +1,119 @@
+hyperskill_project:
+  id: 269
+  ide_files: https://stepik.org/media/attachments/lesson/758048/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
+stages:
+- id: 1363
+  step: 21001
+  is_completed: true
+- id: 1364
+  step: 21002
+  is_completed: true
+- id: 1365
+  step: 21003
+  is_completed: true
+- id: 1366
+  step: 21004
+  is_completed: true
+- id: 1367
+  step: 21005
+  is_completed: true
+topics:
+  0:
+  - title: Binary numbers
+    theory_id: 5544
+  - title: Hexadecimal numbers
+    theory_id: 8788
+  - title: "Write, compile, and run"
+    theory_id: 3739
+  - title: "JVM, JRE, and JDK"
+    theory_id: 3499
+  - title: Units of information
+    theory_id: 6865
+  - title: IDE
+    theory_id: 10996
+  - title: Immutability
+    theory_id: 7929
+  - title: Input/Output
+    theory_id: 20438
+  - title: Computer programming
+    theory_id: 8739
+  - title: Paradigms
+    theory_id: 15860
+  - title: Introduction to OOP
+    theory_id: 3614
+  - title: Unicode
+    theory_id: 7899
+  - title: Introduction to Scala
+    theory_id: 8945
+  - title: Overview of the basic program
+    theory_id: 8950
+  - title: Basic literals
+    theory_id: 9298
+  - title: Values and variables
+    theory_id: 9306
+  - title: Introduction to collections
+    theory_id: 9647
+  - title: Strings
+    theory_id: 16324
+  - title: IntelliJ IDEA
+    theory_id: 3801
+  - title: IntelliJ IDEA basics
+    theory_id: 5819
+  - title: EduTools
+    theory_id: 5839
+  - title: Introduction to Scala Style Guide
+    theory_id: 17547
+  - title: Imports
+    theory_id: 24996
+  - title: Scala Build Tool
+    theory_id: 23725
+  1:
+  - title: Computer algorithms
+    theory_id: 16547
+  - title: Introduction to classes
+    theory_id: 19805
+  - title: Class methods
+    theory_id: 21460
+  - title: Traits and abstract classes
+    theory_id: 22071
+  - title: The concept of patterns
+    theory_id: 3611
+  - title: Companion objects
+    theory_id: 22054
+  - title: Case classes
+    theory_id: 22591
+  - title: Inheritance
+    theory_id: 9844
+  - title: Defining new collections
+    theory_id: 16308
+  - title: Modifying collections
+    theory_id: 16316
+  - title: Introduction to software architecture
+    theory_id: 15368
+  - title: Functions
+    theory_id: 13884
+  - title: Introduction to functions
+    theory_id: 9315
+  - title: Branching
+    theory_id: 9655
+  - title: Introduction to pattern matching
+    theory_id: 16332
+  - title: Design principles
+    theory_id: 8956
+  - title: Single Responsibility Principle
+    theory_id: 8963
+  - title: Algebraic data types
+    theory_id: 24295
+  - title: Introduction to creational patterns
+    theory_id: 16251
+  - title: Singleton
+    theory_id: 16469
+  3:
+  - title: Exceptions
+    theory_id: 19143
+  4:
+  - title: Loops
+    theory_id: 16340
